@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Shafira, Najwa Rahma Dienanti, Laksmi Dwi Oktavia, Nur Dina Aidilia Fitri, Akhmad faiq inamudin
 
 lyric : 
 I hate to give the satisfaction asking how you're doing now
+=======
+Hate to give the satisfaction asking how you're doing now
+>>>>>>> 43621ba82e5218276331e2759d8d97c8135b067a
